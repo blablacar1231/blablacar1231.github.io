@@ -1,0 +1,41 @@
+.my-chat {
+    padding-top: 30px;
+    font-size: 24px;
+    padding-left: 170px;
+    margin-bottom: 10px;
+}
+
+.all_mess {
+    cursor: pointer;
+    width: 1200px;
+    height: 90px;
+    margin-bottom: 20px;
+    border: 0px;
+    background: white;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.message_profile {
+    padding: 0;
+    margin: 0;
+    width: 75px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.mess_block {
+    margin-left: 20px;
+}
+
+.login_mess {
+    padding: 0;
+    margin: 0;
+    display:inline-block;
+}
+
+.message_last {
+    font-size: 22px;
+    padding-top: 10px;
+}

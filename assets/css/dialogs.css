@@ -1,0 +1,40 @@
+.dialog_list {
+    width: 1150px;
+    margin-left: 200px;
+}
+
+.my_chats {
+    padding-left: 200px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.dialog_main {
+    cursor: pointer;
+    width: 1150px;
+    height: 120px;
+    display: flex;
+    background-color: #ddd9ec;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.dialog_picture {
+    width: 120px;
+    height: 120px;
+    margin: 0;
+    padding: 0;
+    border-radius: 15px;
+}
+
+.dialog_paragraph {
+    font-size: 18px;
+    margin-left: 10px;
+    line-height: 32px;
+    color: rgb(82, 105, 125);
+}
+
+#title_dialog {
+    font-size: 24px;
+    color: white;
+}
